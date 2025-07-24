@@ -1,3 +1,4 @@
+# 🕵️‍♂️ Nmap Commands Cheat Sheet (Table Format)
 ---
 
 ## 📍 1. Basic Scans
