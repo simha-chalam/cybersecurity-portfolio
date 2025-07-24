@@ -2,7 +2,7 @@
 
 ## 📍 1. Basic Scans
 
-| Command                        | Description                            |
+| Command                       | Description                            |
 |-------------------------------|----------------------------------------|
 | `nmap 192.168.1.1`            | Scan a single IP                       |
 | `nmap 192.168.1.1 192.168.1.2`| Scan multiple IPs                      |
