@@ -8,15 +8,6 @@ Each file/directory has **three permission sets**:
 - **Group (g)** – users in the file's group
 - **Others (o)** – all other users
 
-### 🔤 Symbolic Notation:
--rwxr-xr--
-│ │ │ │ │
-│ │ │ │ └── Others: read (r)
-│ │ │ └──── Group: read (r), execute (x)
-│ │ └────── User: read (r), write (w), execute (x)
-│ └──────── File (-) or Directory (d)
-
-
 ---
 
 ## 🔢 Numeric (Octal) Notation:
